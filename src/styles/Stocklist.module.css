@@ -1,0 +1,10 @@
+.stocklist {
+    margin: auto;
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .stocklist > tbody {
+    margin: auto;
+    width: 100%;
+  }
